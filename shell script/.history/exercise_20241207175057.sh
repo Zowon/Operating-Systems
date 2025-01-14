@@ -1,0 +1,1 @@
+gcc "$new_file" -o program && echo "Compilation successful.";;
