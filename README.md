@@ -1,6 +1,4 @@
-Here’s a professional and concise description for your GitHub repository on Operating Systems:  
 
----
 
 ### Operating Systems Concepts and Implementations  
 This repository contains assignments, projects, and notes related to Operating Systems. Topics include:  
